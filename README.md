@@ -2,9 +2,10 @@
 
 Couple of algorithms for "Podstawy metod numerycznych" (Basics of numerical methods) subject.
 
-1. Estimating root with bisection method.
-2. Estimating root with Newton-Raphson method.
-3. Estimating root with hybrid method (bisection and Newton-Raphson).
-4. Estimating root with false points and Secant methods.
-5. Interpolating function with Langrange and Hermite methods.
-6. Gauss elimination (for tridiagonal matrices).
+1. Bisection method
+2. Newton-Raphson method
+3. Hybrid method
+4. False position and Secant methods
+5. Langrange and Hermite interpolations
+6. Gaussian elimination
+7. Cubic Spline Interpolation
